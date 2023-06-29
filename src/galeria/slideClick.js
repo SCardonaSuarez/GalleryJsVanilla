@@ -20,7 +20,6 @@ const slideClick = (e) =>{
             descripcion = foto.descripcion
         }
     })
-
     console.log(ruta, nombre, descripcion);
     cargarImagen(id,nombre,ruta,descripcion)
 
